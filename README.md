@@ -8,16 +8,12 @@ _By **Josh Hortt**_
 ## Description
 _A Webpage that says something different back to the user: Using a dialog (Q & A) between Cat and Dog_.<br/>
 _Pet Talk app manipulates the DOM elements by inserting new text with the jQuery **.prepend() method**_, <br/>
-_by clicking the **<button>** the **.prepend() method** will insert the text of the argument, given into_<br/>
-_to the top of the **<ul>** as the first child of the **<ul>**_.<br/>
+_by clicking the (<button>) the **.prepend() method** will insert the text of the argument, given into_<br/>
+_to the top of the (<ul>) as the first child of the (<ul>)_.<br/>
 _After adding something to the DOM, it uses also the **.remove() method** to remove what was added from it_,<br/>
 _when a user clicks a message, it disappears._,<br/>
 _I also attached handlers to the message most recently inserted. Since those are inserted at the top of each list_,<br/>
-_we can select one of the <ul>s, look through its child elements **the <li>s**, and select the **first one** of them_.
-
-_.<br/>
-_#_.<br/>
-_#_!
+_the user can select one of the (<ul>s), look through its child elements the (<li>s), and select the **first one** of them_.
 
 ## Setup/Installation Requirements
 
